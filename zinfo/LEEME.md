@@ -6,3 +6,6 @@
 
 ### Mas ejemplos de arreglos o array
 ![alt text](image2.png)
+
+## Resultados 
+![alt text](image-1.png)
